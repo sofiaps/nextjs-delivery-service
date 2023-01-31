@@ -1,3 +1,5 @@
+Try it out at https://delivery-service-omega.vercel.app/
+
 - Add Products to Cart and proceed to checkout using Paypal 
 - Order Overview after completing payment 
 - Admin Login+Orders Overview pages (/backend)
