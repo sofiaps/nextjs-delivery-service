@@ -1,4 +1,4 @@
-Try it out at https://delivery-service-omega.vercel.app/
+Try it out at https://delivery-service-omega.vercel.app
 
 NextJS + MongoAtlas + Mongoose
 
