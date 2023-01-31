@@ -1,0 +1,17 @@
+$danger: #af1d3b;
+$success: #86c19f;
+$primary: #f5bb1d;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+.app-wrapper {
+    display: grid;
+    grid-template-rows: 100px auto 50px;
+    height: 100vh;
+}
+
+.carousel-container {
+    display: grid;
+    grid-template-rows: 400px auto;
+}
